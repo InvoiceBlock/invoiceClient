@@ -1,3 +1,48 @@
+👤 IPFS / Filecoin : We are uploading Invoice pdf data over to ifps.
+https://github.com/InvoiceBlock/contract/blob/master/scripts/upload.js
+https://github.com/InvoiceBlock/invoiceClient/blob/36ea51d761ce72b2b1dbc0102fa344e28abc5e48/src/lib/%20pinata/index.js
+
+
+🚀 Covalent: We have use for shoing colvent onchain data.https://github.com/InvoiceBlock/invoiceClient/blob/main/src/lib/covalent/fetchers.js
+
+📜 Chainlink: chainlink we are usign 2 thing 1 for  pricefeed and vrf which or give radom id to invoice.
+https://github.com/InvoiceBlock/contract/blob/master/contracts/InvoiceManagement.sol
+https://github.com/InvoiceBlock/contract/blob/master/deploy/01_Deploy.js
+
+✅ Superfluid : Superfluid we have use for payment sholud divide and strame of emi<
+for example we have to invoice $300 then we can create 3 month of Streamer
+CFAv1Library we have use for streame : https://github.com/InvoiceBlock/contract/blob/master/contracts/Streamer.sol 
+https://github.com/InvoiceBlock/contract/blob/master/contracts/PaymentControllerFactory.sol
+
+👥 1inch : we planing to use 1inch for get swap user can best token rate, user price of different exchange easily, we try impletpate
+https://github.com/InvoiceBlock/invoiceClient/blob/main/src/lib/1inch/fetchers.js
+
+🎨 Unstoppable Domains :Unstoppable Domain holder can also login make details
+https://github.com/InvoiceBlock/invoiceClient/blob/main/src/connectors.js
+https://github.com/InvoiceBlock/invoiceClient/blob/main/src/App/index.js
+
+💰  Polygon : contract are deploy of polygon network
+https://github.com/InvoiceBlock/contract/blob/master/hardhat.config.js
+contract we can see: https://github.com/InvoiceBlock/contract
+
+
+💰Harmony Protocol : inovice contract evm completable multi chain deployment possilble 
+
+https://github.com/InvoiceBlock/contract/blob/master/hardhat.config.js
+contract we can see: https://github.com/InvoiceBlock/contract
+
+
+📜 Posts: Post what's happening in your desk or in your life and even post the desk pics, everything is backed up to IPFS.
+✅ Tasks: All tasks are public and added to your profile.
+❓ Questions: Get your questions answered and use this feature as discussion too.
+🍔 Topics: Create and follow topics to stay updated on a particular one.
+👥 Communities: Join the public communities and keep yourself engaged and help others.
+🌑 Dark Mode: A built-in light and dark color scheme.
+💰 Tipping: Support developers work by tipping via Ethereum or Polygon Matic with the help of Chainlink
+🎨 NFTs: Users can mint NFT from their post or from the attachments from the post in Polygon blockchain
+
+
+
 # Invoicy <span style="font-size:medium;">[Invoice Management Systemized]</span>
 
 ## Inspiration
